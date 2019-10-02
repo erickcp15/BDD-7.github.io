@@ -1,3 +1,4 @@
+import $ from 'jquery';
 $(document).ready(function() {
   $('.pour') //Pour Me Another Drink, Bartender!
     .delay(2000)
