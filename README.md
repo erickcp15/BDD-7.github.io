@@ -12,3 +12,5 @@ https://github.com/erickcp15/Beer-Drinkers-Delight
 * Finished with a music video at the corner to give make it a more light hearted finish
 
 ### https://erickcp15.github.io/BDD-7.github.io/
+
+![](Images/Home.png)
